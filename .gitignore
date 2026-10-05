@@ -42,3 +42,9 @@ yarn-error.log*
 next-env.d.ts
 
 certificates
+
+# local runtime
+dev.log
+dev.pid
+AGENTS.md
+CLAUDE.md
